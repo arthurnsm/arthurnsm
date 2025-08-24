@@ -1,24 +1,32 @@
-## Olá, Eu sou o Arthur Roberto
-<h5>📅 19 anos</h5>
-<h5>💻 Técnico em Desenvolvimento de Sistemas</h5>
-<h5>🇧🇷  São Paulo - Brasil</h5>
-<div align="center">
-  <a href="https://github.com/arthurnsm"></a>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=arthurnsm&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=78fe96&locale=pt-br&custom_title=Minhas%20Estatísticas"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurnsm&layout=compact&langs_count=7&theme=dark&border_color=78fe96&locale=pt-br&custom_title=Linguagens%20Mais%20Utilizadas"/>
-</div>
-<div><br>
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> 
-  <img align="center" alt="KL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> 
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<!-- <img align="right" alt="Midoriya" height="150" src="https://media.discordapp.net/attachments/639091185423482882/1023665153671180318/midoriya.png?width=419&height=406"> -->
-</div>
-<div> 
- <a href="https://codepen.io/sparkyguy" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" style="border-radius: 10px;" target="_blank"></a> 
-  <a href="tur.roberto456@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-</div> 
- 
-  ![Snake animation](https://github.com/arthurnsm/SparkyGuy/blob/output/github-contribution-grid-snake.svg)
+# 👋 Olá, eu sou o Arthur Roberto.
 
+💻 **Desenvolvedor Front-End** determinado a transformar ideias em interfaces web modernas, responsivas e intuitivas  
+🚀 Sempre aprendendo novas tecnologias e evoluindo como desenvolvedor  
+
+---
+
+## 🚀 Tecnologias & Ferramentas
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
+![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arthurnsm&show_icons=true&theme=dracula" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurnsm&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+---
+
+## 🌐 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://linkedin.com/in/seu-usuario)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:seuemail@gmail.com)
+
+---
+⭐ Se gostou de algum projeto, não esqueça de deixar uma estrela!
