@@ -19,7 +19,7 @@ Atualmente, estou focado em aprimorar minhas práticas de Clean Code e explorar 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
 
----
+
 <!--
 ## 📊 GitHub Stats
 <div align="center">
@@ -31,5 +31,3 @@ Atualmente, estou focado em aprimorar minhas práticas de Clean Code e explorar 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/arthrnsm/)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:arthur.rdnascimento@gmail.com)
-
----
