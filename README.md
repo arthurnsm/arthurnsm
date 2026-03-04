@@ -1,4 +1,4 @@
-# 👋 Olá, sou o Arthur.
+#  Olá, sou o Arthur.
 
 Olá, sou o Arthur.
 
@@ -10,7 +10,7 @@ Atualmente, estou focado em aprimorar minhas práticas de Clean Code e explorar 
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## Minha Stack  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
@@ -27,9 +27,8 @@ Atualmente, estou focado em aprimorar minhas práticas de Clean Code e explorar 
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurnsm&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 -->
----
 
-## 🌐 Conecte-se comigo
+## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/arthrnsm/)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:arthur.rdnascimento@gmail.com)
 
