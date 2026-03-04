@@ -1,7 +1,12 @@
-# 👋 Olá, eu sou o Arthur Roberto.
+# 👋 Olá, sou o Arthur.
 
-💻 **Desenvolvedor Front-End** determinado a transformar ideias em interfaces web modernas, responsivas e intuitivas  
-🚀 Sempre aprendendo novas tecnologias e evoluindo como desenvolvedor  
+Olá, sou o Arthur.
+
+Sou estudante de Ciência da Computação e desenvolvedor front-end, trabalhando principalmente com React, Next.js, TypeScript e Tailwind CSS. Meu objetivo é construir interfaces que sejam visualmente limpas e robustas.
+
+Além do desenvolvimento web, dedico parte do meu tempo a projetos de sistemas embarcados, hardware hacking e tudo que envolve o meio da eletrônica. Gosto de explorar a integração entre software e hardware, além de estudar e aplicar meus conhecimentos em web hacking.
+
+Atualmente, estou focado em aprimorar minhas práticas de Clean Code e explorar novas possibilidades no desenvolvimento de aplicações web e segurança de hardware.
 
 ---
 
@@ -15,18 +20,17 @@
 ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arthurnsm&show_icons=true&theme=dracula" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurnsm&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
+-->
 ---
 
 ## 🌐 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://linkedin.com/in/seu-usuario)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/arthrnsm/)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:arthur.rdnascimento@gmail.com)
 
 ---
-⭐ Se gostou de algum projeto, não esqueça de deixar uma estrela!
