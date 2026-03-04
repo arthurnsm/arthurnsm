@@ -8,7 +8,6 @@ Além do desenvolvimento web, dedico parte do meu tempo a projetos de sistemas e
 
 Atualmente, estou focado em aprimorar minhas práticas de Clean Code e explorar novas possibilidades no desenvolvimento de aplicações web e segurança de hardware.
 
----
 
 ## Minha Stack  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
