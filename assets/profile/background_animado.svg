@@ -1,5 +1,19 @@
-<svg width="2633" height="1056" viewBox="0 0 2633 1056" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="2633" height="1056" viewBox="0 0 2633 1056" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+<title id="title">Arthur Roberto · Desenvolvedor full stack</title>
 <style>
+  @media (prefers-reduced-motion: no-preference) {
+    #Vector_3_bg_0, #Vector_4_bg_0, #Vector_5_bg_0, #Vector_6_bg_0 {
+      animation: wave-drift 12s ease-in-out infinite alternate;
+    }
+    #Vector_4_bg_0 { animation-delay: -2s; }
+    #Vector_5_bg_0 { animation-delay: -4s; }
+    #Vector_6_bg_0 { animation-delay: -6s; }
+  }
+
+  @keyframes wave-drift {
+    from { transform: translate(-72px, 32px); }
+    to { transform: translate(86px, -38px); }
+  }
 </style>
 <g id="Frame_1" filter="url(#filter0_n_4_26)">
 <g clip-path="url(#clip0_4_26)">
@@ -64,4 +78,9 @@
 <rect width="2633" height="1056" fill="white"/>
 </clipPath>
 </defs>
+<g font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+  <rect x="152" y="224" width="104" height="9" rx="4.5" fill="#B9F503"/>
+  <text x="142" y="418" fill="#FFFFFF" font-size="188" font-weight="740" letter-spacing="-6">Arthur Roberto</text>
+  <text x="152" y="541" fill="#D6FC6A" font-size="75" font-weight="590">Desenvolvedor full stack</text>
+</g>
 </svg>
