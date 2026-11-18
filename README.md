@@ -18,3 +18,7 @@ Desenvolvo aplicações web e transformo layouts do Figma em interfaces responsi
 
 **Versionamento e ambiente**  
 ![Git e Linux (Tux)](https://skillicons.dev/icons?i=git,linux&theme=dark)
+
+## GitHub Stats
+
+![Estatísticas públicas de Arthur Roberto no GitHub](https://github-readme-stats.vercel.app/api?username=arthurnsm&show_icons=true&locale=pt-br&hide_title=true&bg_color=100A1C&border_color=5938A9&title_color=C9B5FF&icon_color=B9F503&text_color=ECE6FF)
