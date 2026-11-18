@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="205" height="44" viewBox="0 0 205 44" role="img" aria-labelledby="label">
+  <title id="label">arthurroberto.dev</title>
+  <rect x=".75" y=".75" width="203.5" height="42.5" rx="10" fill="#a4f8bd" stroke="#bdf9ce" stroke-width="1.5"/>
+  <g fill="none" stroke="#133526" stroke-width="1.5">
+    <circle cx="23" cy="22" r="8"/>
+    <ellipse cx="23" cy="22" rx="3.5" ry="8"/>
+    <path d="M15 22h16"/>
+  </g>
+  <text x="42" y="27" font-family="system-ui, sans-serif" font-size="14" font-weight="640" fill="#102c1e">arthurroberto.dev</text>
+  <path d="m180 26 8-8m-6.6 0h6.6v6.6" fill="none" stroke="#102c1e" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="287" height="44" viewBox="0 0 287 44" role="img" aria-labelledby="label">
+  <title id="label">arthur.rdnascimento@gmail.com</title>
+  <rect x=".75" y=".75" width="285.5" height="42.5" rx="10" fill="#102119" stroke="#527962" stroke-width="1.5"/>
+  <g fill="none" stroke="#a4f8bd" stroke-width="1.45" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="15" y="15.5" width="17" height="13" rx="2.4"/>
+    <path d="m15.9 17 7.6 5.7 7.6-5.7"/>
+  </g>
+  <text x="42" y="27" font-family="system-ui, sans-serif" font-size="14" font-weight="640" fill="#f2faf4">arthur.rdnascimento@gmail.com</text>
+</svg>
