@@ -8,17 +8,20 @@
 
 Desenvolvo aplicações web e transformo layouts do Figma em interfaces responsivas. Estudo Ciência da Computação e venho me aprofundando em **cibersegurança (CyberSec)**. Também exploro eletrônica, sistemas embarcados e segurança de hardware.
 
-## Stack
-
-**Front-end e design**  
-![React, Next.js, TypeScript, JavaScript, Tailwind CSS, Three.js e Figma](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,threejs,figma&theme=dark)
-
-**Bancos de dados e ORM**  
-![Supabase, PostgreSQL, MySQL e Prisma](https://skillicons.dev/icons?i=supabase,postgres,mysql,prisma&theme=dark)
-
-**Versionamento e ambiente**  
-![Git e Linux (Tux)](https://skillicons.dev/icons?i=git,linux&theme=dark)
-
-## GitHub Stats
-
-![Estatísticas públicas de Arthur Roberto no GitHub](https://github-readme-stats.vercel.app/api?username=arthurnsm&show_icons=true&locale=pt-br&hide_title=true&bg_color=100A1C&border_color=5938A9&title_color=C9B5FF&icon_color=B9F503&text_color=ECE6FF)
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h2>Stack</h2>
+      <p><strong>Front-end e design</strong></p>
+      <p><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,threejs,figma&amp;theme=dark" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, Three.js e Figma"></p>
+      <p><strong>Bancos de dados e ORM</strong></p>
+      <p><img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,prisma&amp;theme=dark" alt="Supabase, PostgreSQL, MySQL e Prisma"></p>
+      <p><strong>Versionamento e ambiente</strong></p>
+      <p><img src="https://skillicons.dev/icons?i=git,linux&amp;theme=dark" alt="Git e Linux (Tux)"></p>
+    </td>
+    <td width="45%" valign="top">
+      <h2>GitHub Stats</h2>
+      <img src="https://github-readme-stats.vercel.app/api?username=arthurnsm&amp;show_icons=true&amp;locale=pt-br&amp;hide_title=true&amp;bg_color=100A1C&amp;border_color=5938A9&amp;title_color=C9B5FF&amp;icon_color=B9F503&amp;text_color=ECE6FF" alt="Estatísticas públicas de Arthur Roberto no GitHub">
+    </td>
+  </tr>
+</table>
