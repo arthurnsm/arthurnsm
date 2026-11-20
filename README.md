@@ -1,4 +1,4 @@
-<img src="./assets/profile/background_animado.svg" width="896" alt="Arthur Roberto · Desenvolvedor full stack">
+<img src="./assets/profile/background.jpg" width="896" alt="Arthur Roberto · Desenvolvedor full stack">
 
 <p>
   <a href="https://arthurroberto.dev/"><img src="./assets/profile/portfolio.svg" width="242" height="44" alt="Portfólio em arthurroberto.dev"></a>
